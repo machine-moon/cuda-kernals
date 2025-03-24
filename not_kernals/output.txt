@@ -1,0 +1,2 @@
+Elapsed time (GPU): 4.03929 seconds
+Elapsed time (CPU): 137.521 seconds
